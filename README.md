@@ -12,27 +12,27 @@ Welcome to LearnEase, the app designed to make learning easy, fun, and effective
 7. Technologies Used
 8. License
 
-##🚀 What is LearnEase?
+## 🚀 What is LearnEase?
 
 LearnEase is an innovative, user-friendly app that offers a variety of features tailored to meet your learning needs. Our mission is simple: to make learning more accessible and engaging for everyone, anytime, anywhere.
 
-##Key Features:
-📚 Personalized Learning Paths
+## Key Features:
+- 📚 Personalized Learning Paths
 Get personalized study plans based on your goals, preferences, and pace. Whether you're learning a new language, preparing for exams, or mastering a technical skill, LearnEase adapts to you.
 
-🎮 Interactive Quizzes & Challenges
+- 🎮 Interactive Quizzes & Challenges
 Test your knowledge and track your progress with engaging quizzes, flashcards, and challenges. Compete with friends or track your improvement over time.
 
-🧑‍🏫 Expert-Led Lessons
+- 🧑‍🏫 Expert-Led Lessons
 Access a growing library of expert-led lessons across various subjects. Our content is designed to be clear, concise, and easily digestible.
 
-📊 Progress Tracking & Insights
+- 📊 Progress Tracking & Insights
 Stay motivated with detailed progress reports. LearnEase helps you identify your strengths, areas for improvement, and sets goals to keep you on track.
 
-💬 Community Learning
+- 💬 Community Learning
 Join a vibrant community of learners. Discuss topics, ask questions, and share knowledge with like-minded individuals. Learning is always more fun when done together!
 
-🎯 Flexible Scheduling & Reminders
+- 🎯 Flexible Scheduling & Reminders
 Set your own study schedule, receive reminders, and stay organized. Whether you prefer to study in short bursts or longer sessions, LearnEase is designed to fit your lifestyle.
 
 🌟 Why LearnEase?
